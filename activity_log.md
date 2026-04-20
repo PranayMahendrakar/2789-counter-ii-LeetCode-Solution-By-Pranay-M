@@ -8,3 +8,4 @@
 - [2026-03-04T16:46:57Z] refactor: clean up unused imports
 - [2026-03-04T20:34:04Z] refactor: clean up unused imports
 - [2026-04-20T15:54:47Z] feat: add helper utility function
+- [2026-04-20T15:47:06Z] chore: update dependencies to latest versions
