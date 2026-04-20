@@ -11,3 +11,4 @@
 - [2026-04-20T15:47:06Z] chore: update dependencies to latest versions
 - [2026-04-20T13:56:57Z] refactor: simplify conditional logic
 - [2026-04-20T12:53:53Z] docs: improve inline documentation
+- [2026-04-20T19:28:13Z] fix: resolve edge case in input validation
