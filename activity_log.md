@@ -14,3 +14,4 @@
 - [2026-04-20T19:28:13Z] fix: resolve edge case in input validation
 - [2026-04-20T19:20:14Z] chore: remove deprecated API calls
 - [2026-04-20T16:05:02Z] chore: update dependencies to latest versions
+- [2026-04-20T15:09:29Z] refactor: simplify conditional logic
